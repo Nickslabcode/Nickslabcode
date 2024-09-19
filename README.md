@@ -20,6 +20,8 @@ I'm a lifelong learner who's recently transitioned from support to coding. Recen
 - **Outdoor Adventures:** Exploring new trails with my cocker spaniel, Ruffles.
 - **Board & Video Games:** Playing couch co-op games on the Nintendo Switch with friends.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolanenovski&label=Profile%20views&color=0e75b6&style=flat" alt="nikolanenovski" /> </p>
+
 ### 📫 How to reach me:
 - **Email:** nicknenovski@gmail.com
 - **LinkedIn:** [Nikola Nenovski](https://www.linkedin.com/in/nikola-nenovski-326291324/)
