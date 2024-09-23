@@ -1,12 +1,16 @@
 ## 👋 Hi, I'm Nick, short for Nikola
 
-### 🎯 Aspiring JavaScript Developer
+### 🌱 Aspiring JavaScript Developer
 
-I'm a lifelong learner who's recently transitioned from support to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into Javascript and web development, and I’m excited to grow even more.
+I'm a lifelong learner who's recently transitioned from tech support to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into Javascript and web development, and I’m excited to grow even more.
 
-### 🚀 What I'm Working On:
-- **JavaScript & React Development:** Still early in my journey, but I’m already building dynamic web applications, with a drive to constantly improve.
-- **Learning by Doing:** I’m hands-on with projects, experimenting with new frameworks and best practices to expand my skillset.
+### 🚀 What I'm Working On
+
+- **JavaScript & React Development**: Actively building dynamic web applications with a focus on React and core JavaScript fundamentals, while continuously enhancing my skills and best practices.
+- **NestJS Exploration**: Currently expanding my backend knowledge by diving into NestJS, developing a deeper understanding of scalable and maintainable server-side applications.
+- **Hands-On Learning**: Engaging with real-world projects, experimenting with new tools and frameworks to strengthen both frontend and backend development expertise.
+
+- **💻 Stay tuned for my next big project**: A full-stack SPA with React, NestJS with TypeORM for backend, and PostGreSQL.
 
 ### ⚙️ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
