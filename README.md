@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nick, short for Nikola
 
-### 🌱 Aspiring JavaScript Developer
+### 🌱 Junior JavaScript Developer
 
 I'm a lifelong learner who's recently transitioned from tech support to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into Javascript and web development, and I’m excited to grow even more.
 
