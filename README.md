@@ -8,7 +8,6 @@ I'm a lifelong learner who's recently transitioned from tech support to coding. 
 
 - **JavaScript & React Development**: Actively building dynamic web applications with a focus on React and core JavaScript fundamentals, while continuously enhancing my skills and best practices.
 - **NestJS Exploration**: Currently expanding my backend knowledge by diving into NestJS, developing a deeper understanding of scalable and maintainable server-side applications.
-- **Hands-On Learning**: Engaging with real-world projects, experimenting with new tools and frameworks to strengthen both frontend and backend development expertise.
 
 - **💻 Stay tuned for my next big project**: A full-stack SPA with React, NestJS with TypeORM for backend, and PostGreSQL.
 
