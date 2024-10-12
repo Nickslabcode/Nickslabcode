@@ -21,7 +21,7 @@ I'm a lifelong learner who's recently transitioned from tech support to coding. 
 ### 🎮 Hobbies:
 - **Skill Toys & Puzzles:** Mastered various yo-yo styles and loves solving jigsaw puzzles.
 - **Outdoor Adventures:** Exploring new trails with my cocker spaniel, Ruffles.
-- **Board & Video Games:** Playing couch co-op games on the Nintendo Switch with friends.
+- **Board & Video Games:** Playing couch co-op games on the Nintendo Switch and board games with friends.
 
 ### 📫 How to reach me:
 - **Email:** nicknenovski@gmail.com
