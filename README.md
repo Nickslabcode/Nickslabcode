@@ -1,15 +1,15 @@
-## 👋 Hi, I'm Nick, short for Nikola
+## Hi, I'm Nick, short for Nikola
 
 ### 🌱 Junior JavaScript Developer
 
-I'm a lifelong learner who's recently transitioned from tech support to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into Javascript and web development, and I’m excited to grow even more.
+I'm a lifelong, hands-on learner who's recently transitioned from tech support to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into JavaScript and web development, and I’m excited to grow even more.
 
 ### 🚀 What I'm Working On
 
-- **JavaScript & React Development**: Actively building dynamic web applications with a focus on React and core JavaScript fundamentals, while continuously enhancing my skills and best practices.
-- **NestJS Exploration**: Currently expanding my backend knowledge by diving into NestJS, developing a deeper understanding of scalable and maintainable server-side applications.
+- **JavaScript & React**: Actively practicing React and core JavaScript fundamentals, while continuously enhancing my skills and best practices.
+- **NestJS Exploration**: Currently expanding my backend knowledge by diving into NestJS & TypeORM, developing a deeper understanding of scalable and maintainable server-side applications.
 
-**💻 Stay tuned for my next big project**: A full-stack SPA with React, NestJS with TypeORM for backend, and PostGreSQL.
+**💻 Planning a new project**: A full-stack SPA with React, TypeScript, NestJS with TypeORM for backend, and PostGreSQL.
 
 ### ⚙️ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@ I'm a lifelong learner who's recently transitioned from tech support to coding. 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎮 Hobbies:
-- **Skill Toys & Puzzles:** Mastered various yo-yo styles and loves solving jigsaw puzzles.
+- **Skill Toys & Puzzles:** Mastering various yo-yo styles and love solving jigsaw puzzles.
 - **Outdoor Adventures:** Exploring new trails with my cocker spaniel, Ruffles.
 - **Board & Video Games:** Playing couch co-op games on the Nintendo Switch and board games with friends.
 
