@@ -2,14 +2,14 @@
 
 ### 🌱 Junior JavaScript Developer
 
-I'm a lifelong, hands-on learner who's recently transitioned from tech support to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into JavaScript and web development, and I’m excited to grow even more.
+I'm a lifelong, hands-on learner who's recently transitioned from tech support to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into JavaScript and web development, and I’m excited to grow even more. Check my [portfolio](https://nikola-nenovski.info).
 
 ### 🚀 What I'm Working On
 
 - **JavaScript & React**: Actively practicing React and core JavaScript fundamentals, while continuously enhancing my skills and best practices.
 - **NestJS Exploration**: Currently expanding my backend knowledge by diving into NestJS & TypeORM, developing a deeper understanding of scalable and maintainable server-side applications.
 
-**Current project**: Working on the front-end for a domain info lookup tool for displaying WhoIS, DNS and SSL information in one place. Using React, TypeScript, Axios, HttpYac, TailwindCSS and DaisyUI and you can check it <a href="https://github.com/Nickslabcode/domain-info-lookup" target="_blank" rel="noopener noreferrer">here</a>.
+**Current project**: Working on the front-end for a domain info lookup tool for displaying WhoIS, DNS and SSL information in one place. Using React, TypeScript, Axios, HttpYac, TailwindCSS and DaisyUI and you can check it **[here](https://github.com/Nickslabcode/domain-info-lookup)**.
 
 **💻 Next Project**: A full-stack SPA with React, TypeScript, NestJS with TypeORM for backend, and PostGreSQL. More details TBA.
 
