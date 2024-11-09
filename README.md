@@ -9,7 +9,8 @@ I'm a lifelong, hands-on learner who's recently transitioned from tech support t
 - **JavaScript & React**: Actively practicing React and core JavaScript fundamentals, while continuously enhancing my skills and best practices.
 - **NestJS Exploration**: Currently expanding my backend knowledge by diving into NestJS & TypeORM, developing a deeper understanding of scalable and maintainable server-side applications.
 
-**💻 Planning a new project**: A full-stack SPA with React, TypeScript, NestJS with TypeORM for backend, and PostGreSQL.
+** Current project **: Currently  working on a domain info lookup tool displaying WhoIS, DNS and SSL information in one place. Working on the front-end, I'm using React, TypeScript, Axios, HttpYac, TailwindCSS and DaisyUI.
+**💻 Next Project **: A full-stack SPA with React, TypeScript, NestJS with TypeORM for backend, and PostGreSQL. More details TBA.
 
 ### ⚙️ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
