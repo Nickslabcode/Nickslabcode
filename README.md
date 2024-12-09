@@ -4,7 +4,7 @@
 
 A hands-on learner who's recently transitioned from tech support to coding.   
 
-I Recently graduated from Telerik Academy, completing the intense Alpha JavaScript track, where I spent 6 months learning JavaScript and web development.
+I graduated from Telerik Academy, completing the Alpha JavaScript track, where I spent 6 months learning JavaScript and web development.
 
 Currently a mentor at Telerik Academy.
 
