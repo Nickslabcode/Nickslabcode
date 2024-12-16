@@ -13,11 +13,11 @@ Check my portfolio **[here](https://nikola-nenovski.info)**.
 - **JavaScript & React**: Actively practicing React and core JavaScript fundamentals, while continuously enhancing my skills and best practices.
 - **NestJS Exploration**: Recently expanded my backend knowledge by diving into NestJS & TypeORM, developing a deeper understanding of scalable and maintainable server-side applications.
 
-### **Current project**: 
-Full-stack Domain info lookup SPA for displaying WhoIS, DNS and SSL information in one place, as well as extra info such as CDN and WordPress instance checks. 
-Check the project repo **[here](https://github.com/Nickslabcode/domain-info-lookup)**.
-
-**💻 Next Project**: A full-stack SPA with React, TypeScript, NestJS with TypeORM for backend, and PostGreSQL. More details TBA.
+  ### **Current project**: 
+  Full-stack Domain info lookup SPA for displaying WhoIS, DNS and SSL information in one place, as well as extra info such as CDN and WordPress instance checks. 
+  Check the project repo **[here](https://github.com/Nickslabcode/domain-info-lookup)**.  
+  
+  **💻 Next Project**: A full-stack SPA with React, TypeScript, NestJS with TypeORM for backend, and PostGreSQL. More details TBA.
 
 ### ⚙️ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
