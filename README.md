@@ -6,7 +6,7 @@ A hands-on learner who's recently transitioned from tech support to coding.
 
 I graduated from Telerik Academy, completing the Alpha JavaScript track, where I spent 6 months learning JavaScript and web development and 2 months afterward mentoring a group of 3 students with their own final react project.
 
-Check my portfolio [here](https://nikola-nenovski.info).
+Check my portfolio **[here](https://nikola-nenovski.info)**.
 
 ### 🚀 What I'm Working On
 
@@ -15,13 +15,7 @@ Check my portfolio [here](https://nikola-nenovski.info).
 
 ### **Current project**: 
 Full-stack Domain info lookup SPA for displaying WhoIS, DNS and SSL information in one place, as well as extra info such as CDN and WordPress instance checks. 
-Stack:
-  - **Front-end:** React, TypeScript, Axios, HttpYac, TailwindCSS and DaisyUI.
-  - **Proxy:** Cloudflare worker with TypeScript.
-  - **Back-end (separate private repo):** Express, AWS lambda.
-
 Check the project repo **[here](https://github.com/Nickslabcode/domain-info-lookup)**.
-
 
 **💻 Next Project**: A full-stack SPA with React, TypeScript, NestJS with TypeORM for backend, and PostGreSQL. More details TBA.
 
