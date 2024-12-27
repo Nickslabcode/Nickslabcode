@@ -10,14 +10,15 @@ Check my portfolio **[here](https://nikola-nenovski.info)**.
 
 ### 🚀 What I'm Working On
 
-- **JavaScript & React**: Actively practicing React and core JavaScript fundamentals, while continuously enhancing my skills and best practices.
-- **NestJS Exploration**: Recently expanded my backend knowledge by diving into NestJS & TypeORM, developing a deeper understanding of scalable and maintainable server-side applications.
+- **JavaScript & React**: Actively practicing React, JavaScript, and TypeScript, continuously learning best practices, good coding habits, and writing clean code.
+- **GOLANG Exploration**: Recently embarked on learning the fundamentals of Go to enhance my back-end development skills
 
   ### **Current project**: 
   Full-stack Domain info lookup SPA for displaying WhoIS, DNS and SSL information in one place, as well as extra info such as CDN and WordPress instance checks. 
   Check the project repo **[here](https://github.com/Nickslabcode/domain-info-lookup)**.  
   
-  **💻 Next Project**: A full-stack SPA with React, TypeScript, NestJS with TypeORM for backend, and PostGreSQL. More details TBA.
+  **💻 Next Project**: A full-stack multiplayer game with real-time updates. The backend will be built with Go and WebSockets for real-time communication, while the frontend will use React and TypeScript. GORM and PostgreSQL will handle database interactions. More details TBA!  
+
 
 ### ⚙️ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
