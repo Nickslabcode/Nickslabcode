@@ -4,7 +4,7 @@
 
 A hands-on learner who's recently transitioned from tech support to coding.   
 
-I graduated from Telerik Academy's Alpha JavaScript track, where I spent 6 months learning JavaScript and web development. Recognized for my dedication, discipline, and helpfulness to colleagues, I was offered a mentor role in the academy and mentored 2 groups of students. 
+I graduated from Telerik Academy's Alpha JavaScript track, where I spent 6 months learning JavaScript and web development. Recognized for my dedication, discipline, and helpfulness to colleagues, I was offered a mentor role in the academy twice. 
 
 Check my portfolio **[here](https://nikola-nenovski.info)**.
 
