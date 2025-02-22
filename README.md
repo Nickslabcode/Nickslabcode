@@ -1,16 +1,16 @@
 ## Hi, I'm Nick, short for Nikola
 
-### 🌱 Junior JavaScript Developer
+### 🌱 Junior Software Engineer @ interop.io • Junior JavaScript Developer
 
 A hands-on learner who's recently transitioned from tech support to coding.   
 
-I graduated from Telerik Academy's Alpha JavaScript track, where I spent 6 months learning JavaScript and web development. Recognized for my dedication, discipline, and helpfulness to colleagues, I was offered a mentor role in the academy twice. 
+I graduated from Telerik Academy's Alpha JavaScript track, where I spent 6 months learning JavaScript and web development. Recognized for my dedication, discipline, and helpfulness to colleagues, I was offered a mentor role in the academy. 
 
 Check my portfolio **[here](https://nikola-nenovski.info)**.
 
 ### 🚀 What I'm Working On
 
-- **JavaScript & React**: Actively practicing React, JavaScript, and TypeScript, continuously learning best practices, good coding habits, and writing clean code.
+- **JavaScript & React**: Actively practicing React, JavaScript, and TypeScript, continuously learning best practices, good coding habits, and writing clean code. Currently I'm invested into learning e2e testing with Playwright.
 
   ### **Current project**: 
   Full-stack Domain info lookup SPA for displaying WhoIS, DNS and SSL information in one place, as well as extra info such as CDN and WordPress instance checks. 
