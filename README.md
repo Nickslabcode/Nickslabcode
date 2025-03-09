@@ -4,21 +4,24 @@
 
 A hands-on learner who's recently transitioned from tech support to coding.   
 
-I completed the Alpha JavaScript track at Telerik Academy, dedicating six months to mastering JavaScript and web development. Due to my commitment, discipline, and supportiveness towards my peers, I was honored with a mentor role at the academy.
+I completed the Alpha JavaScript track at Telerik Academy, dedicating six months to building a solid foundation for JavaScript and web development. Due to my commitment, discipline, and supportiveness towards my peers, I was honored with a mentor role at the academy.
 
 Check my portfolio **[here](https://nikola-nenovski.info)**.
 
 ### 🚀 What I'm Working On
 
-- **JavaScript & React**: I’m continuously sharpening my skills in React, JavaScript, and TypeScript. I’m all about learning best practices, building solid coding and learning habits, and writing clean code. Right now, I'm diving into end-to-end testing with Playwright.
+I'm currently learning Docker, Playwright and continuously sharpening my skills in React, JavaScript, and TypeScript.
 
-  ### **Current project**: 
-  Full-stack Domain lookup SPA for displaying WhoIS, DNS and SSL information in one place, as well as extra info such as CDN and WordPress instance checks. 
+### 🛠️ Current Project - DomainLookup
+  Full-stack Domain info lookup SPA for displaying WhoIS, DNS and SSL information in one place, as well as extra info such as CDN and WordPress instance checks.  
+  
   Check the project repo **[here](https://github.com/Nickslabcode/domain-info-lookup)**.  
 
 ### ⚙️ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
