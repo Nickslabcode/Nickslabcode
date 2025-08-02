@@ -12,11 +12,14 @@ Check my portfolio **[here](https://nikola-nenovski.info)**.
 
 I'm currently learning Docker, Playwright and continuously sharpening my skills in React, JavaScript, and TypeScript.
 
-### 🛠️ Current Project - DomainLookup
-  Full-stack Domain info lookup SPA for displaying WhoIS, DNS and SSL information in one place, as well as extra info such as CDN and WordPress instance checks.  
-  
-  Check the project repo **[here](https://github.com/Nickslabcode/domain-info-lookup)**.  
+### 🛠️ Current Project
 
+#### 🔗 [DomainLookup](https://github.com/Nickslabcode/domain-info-lookup)
+Full-stack web SPA for displaying WhoIS, DNS and SSL information in one place, as well as CDN and WordPress instance checks.
+
+#### 🔗 [App Launcher](https://github.com/Nickslabcode/waffle-launcher)
+Full-stack productivity desktop application for configuring mouse and keyboard shortcuts to open and switch between different desktop applications.
+    
 ### ⚙️ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
