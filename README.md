@@ -12,7 +12,7 @@ Check my portfolio **[here](https://nikola-nenovski.info)**.
 
 I'm currently learning Docker, Playwright and continuously sharpening my skills in React, JavaScript, and TypeScript.
 
-### 🛠️ Current Project
+### Current Projects:
 
 #### 🔗 [DomainLookup](https://github.com/Nickslabcode/domain-info-lookup)
 Full-stack web SPA for displaying WhoIS, DNS and SSL information in one place, as well as CDN and WordPress instance checks.
